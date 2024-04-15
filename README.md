@@ -1,16 +1,41 @@
-### Hi there 👋
+## 👋 Hi, I’m MOCQUET G.
+As a digital enthusiast, I love giving life to the technical.
 
-<!--
-**gmocquet/gmocquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I consider programming to be a creative process. I enjoy using my creativity and skills to enhance the systems we operate in every day.
 
-Here are some ideas to get you started:
+> _Code is like humor. When you have to explain it, it’s bad._ **Cory House**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stacks & skills 👨‍💻
+
+#### 💻 Web
+| **Front** | **Back** |
+|-----------|----------|
+| ● VueJS, Typescript <br> | ● Python : FastAPI, SQLAlchemy, ... <br> ● Node <br> ● Rest API, GraphQL... |
+
+#### 🚀 Tools & CI/CD 
+
+- Git
+- GitHub Action
+- Docker
+- Kubernetes
+- ArgoCD
+
+#### 🗂️ Data 
+
+- Data Lake
+- ETL/ELT
+- BI
+- SQL
+- GraphQL
+
+#### 📇 Modelization
+
+- UML
+- Merise modeling methodology
+
+---
+
+### 📚 My sports
+- 🏒 Ice Hockey
+- ⛷️ Alpine skiing
+- 🚲 Cycling
