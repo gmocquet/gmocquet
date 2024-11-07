@@ -10,7 +10,7 @@ I consider programming to be a creative process. I enjoy using my creativity and
 #### 💻 Web
 | **Front** | **Back** |
 |-----------|----------|
-| ● VueJS, Typescript <br> | ● Python : FastAPI, SQLAlchemy, ... <br> ● Node <br> ● Rest API, GraphQL... |
+| ● React, Next.js, TypeScript  <br> | ● Python: FastAPI, SQLAlchemy, ... <br> ● Node <br> ● Rest API, GraphQL... |
 
 #### 🚀 Tools & CI/CD 
 
