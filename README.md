@@ -7,26 +7,62 @@ I consider programming to be a creative process. I enjoy using my creativity and
 
 ### My stacks & skills 👨‍💻
 
-#### 💻 Web
-| **Front** | **Back** |
-|-----------|----------|
-| ● React, Next.js, TypeScript  <br> | ● Python: FastAPI, SQLAlchemy, ... <br> ● Node <br> ● Rest API, GraphQL... |
+#### ☁️ Cloud
+  - AWS
+  - GCP
+  - Vercel
+  - Supabase
+  - Paperspace - GPUs & AI (Acquired by DigitalOcean)
 
-#### 🚀 Tools & CI/CD 
-
-- Git
-- GitHub Action
-- Docker
-- Kubernetes
-- ArgoCD
+#### 🤖 AI
+  - XGBoost
+  - PyTorch
+  - YOLOv8
+  - detectron2
 
 #### 🗂️ Data 
+  - S3
+  - Data Lake
+  - ETL/ELT: Apache Airflow
+  - BI
+  - SQL: PostgreSQL, PostGIS
+  - NoSQL: ElasticSearch
+  - Vector: Meilisearch
 
-- Data Lake
-- ETL/ELT
-- BI
-- SQL
-- GraphQL
+#### 🤖 AI
+  - XGBoost
+  - PyTorch
+  - YOLOv8
+  - detectron2
+
+#### ⚙️ Web applications
+  - Python
+  - Node.js
+  - FastAPI
+  - ORM: SQLAlchemy, Prisma
+  - REST APIs
+  - GraphQL
+
+#### 💻 Front-end
+  - TypeScript
+  - React
+  - Next.js
+  - Vue.JS
+  - HTML5
+  - CSS
+  - JavaScript
+
+#### 🚀 DevOps
+
+- Docker
+- Kubernetes
+- SCM: Git, GitLab
+- CI: GitHub Action, CircleCI
+- CD: ArgoCD
+- IaC: Terraform
+- Unit Tests: pytest, Jest
+- Load Testing: k6
+- Nix
 
 #### 📇 Modelization
 
