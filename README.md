@@ -26,6 +26,11 @@ I specialize in designing scalable systems, optimizing MLOps pipelines, and ment
   - MLOps: SageMaker, CI/CD Pipelines for ML, Model Store, Model Monitoring
   - Vector Search: Meilisearch
 
+#### 🧠 AI-Enabling Assistants & Prompt Engineering
+  - Coding: Cursor, v0 by Vercel
+  - Presentation: Gamma
+  - Global: ChatGPT, Claude
+ 
 #### 🗂️ Data Engineering & Analytics
   - Data Storage: PostgreSQL (PostGIS), BigQuery, Redshift, S3, Data Lake
   - ETL/ELT Pipelines: Apache Airflow, Glue, Cloud Composer
