@@ -1,69 +1,53 @@
-## 👋 Hi, I’m MOCQUET G.
-As a digital enthusiast, I love giving life to the technical.
+## 👋 Hi, I’m G. MOCQUET
 
-I consider programming to be a creative process. I enjoy using my creativity and skills to enhance the systems we operate in every day.
+🚀 Founder & CTO @ Addelim | 💡 Ex-Kpler | Ex-Publicis
+🌍 Paris, France | ☁️ Google Cloud Certified Professional Cloud Architect
 
-> _Code is like humor. When you have to explain it, it’s bad._ **Cory House**
+### 🛠 About Me
 
-### My stacks & skills 👨‍💻
+I am a technology enthusiast with 20+ years of experience spanning front-end, back-end, DevOps, AI/ML, and data architecture. 
+My expertise lies in cloud computing, software engineering, automation, and AI solutions.
 
-#### ☁️ Cloud
-  - AWS
-  - GCP
-  - Vercel
-  - Supabase
-  - Paperspace - GPUs & AI (Acquired by DigitalOcean)
+I believe programming is a creative process, and I love bringing technical ideas to life.
 
-#### 🤖 AI
-  - XGBoost
-  - PyTorch
-  - YOLOv8
-  - detectron2
+> _Code is like humor. When you have to explain it, it’s bad._ — **Cory House**
 
-#### 🗂️ Data 
-  - S3
-  - Data Lake
-  - ETL/ELT: Apache Airflow
-  - BI
-  - SQL: PostgreSQL, PostGIS
-  - NoSQL: ElasticSearch, Redis
-  - Vector: Meilisearch
+I specialize in designing scalable systems, optimizing MLOps pipelines, and mentoring teams to deliver AI-driven applications efficiently.
 
-#### ⚙️ Web applications
-  - Python
-  - Node.js
-  - FastAPI
-  - ORM: SQLAlchemy, Prisma
-  - REST APIs
-  - GraphQL
+### 🔥 Expertise
 
-#### 💻 Front-end
-  - TypeScript
-  - React
-  - Next.js
-  - Vue.JS
-  - HTML5
-  - CSS
-  - JavaScript
+#### ☁️ Cloud & Infrastructure
+  - Cloud Platforms: AWS, GCP, Paperspace (Acquired by DigitalOcean), Vercel, Supabase
+  - Infrastructure: Kubernetes, Docker, Terraform, ArgoCD, Nix
+  - Serverless: AWS Lambda, GCP Cloud Functions
 
-#### 🚀 DevOps
+#### 🤖 AI & Machine Learning
+  - Frameworks: PyTorch, XGBoost, YOLOv8, Detectron2
+  - MLOps: SageMaker, CI/CD Pipelines for ML, Model Store, Model Monitoring
+  - Vector Search: Meilisearch
 
-- Docker
-- Kubernetes
-- SCM: Git, GitLab
-- CI: GitHub Action, CircleCI
-- CD: ArgoCD
-- IaC: Terraform
-- Unit Tests: pytest, Jest
-- Load Testing: k6
-- Nix
+#### 🗂️ Data Engineering & Analytics
+  - Data Storage: PostgreSQL (PostGIS), BigQuery, Redshift, S3, Data Lake
+  - ETL/ELT Pipelines: Apache Airflow, Glue, Cloud Composer
+  - Big Data: Spark, Kafka, Hive, Hadoop, Cassandra
+  - Business Intelligence: Tableau, Google Data Studio
 
-#### 📇 Modelization
+#### ⚙️ Web applications & APIs
+  - Backend: Python (FastAPI), Node.js, GraphQL, Prisma, SQLAlchemy
+  - Frontend: TypeScript, React, Next.js, Vue.js, HTML, CSS, JavaScript
 
-- UML
-- Merise modeling methodology
+#### 🚀 DevOps & Observability
+  - Containers: Docker, Kubernetes, Colima, Nix
+  - CI/CD: GitHub Actions, CircleCI, ArgoCD
+  - IaC: Terraform, AWS CloudFormation, Google Deployment Manager
+  - Logging & Monitoring: DataDog, Prometheus, Grafana, ELK Stack
+  - Load Testing: k6
+  - Unit Tests: pytest, Jest
+  - SCM: Git, GitLab
 
----
+#### 📇 Software Architecture & Modelization
+  - Architecture: Distributed Systems, High Availability (HA)
+  - Modelization: APIs Design, UML, Merise modeling methodology
 
 ### 📚 My sports
 - 🏒 Ice Hockey
