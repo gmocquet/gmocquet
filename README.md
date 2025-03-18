@@ -39,7 +39,7 @@ I specialize in designing scalable systems, optimizing MLOps pipelines, and ment
 
 #### ⚙️ Web applications & APIs
   - Backend: Python (FastAPI), Node.js, GraphQL, Prisma, SQLAlchemy
-  - Frontend: TypeScript, React, Next.js, Vue.js, HTML, CSS, JavaScript
+  - Frontend: TypeScript, React, Next.js, Vue.js, shadcn/ui, Radix UI, HTML, CSS, JavaScript
 
 #### 🚀 DevOps & Observability
   - CI/CD: GitHub Actions, CircleCI, ArgoCD
