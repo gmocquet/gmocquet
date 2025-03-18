@@ -26,14 +26,8 @@ I consider programming to be a creative process. I enjoy using my creativity and
   - ETL/ELT: Apache Airflow
   - BI
   - SQL: PostgreSQL, PostGIS
-  - NoSQL: ElasticSearch
+  - NoSQL: ElasticSearch, Redis
   - Vector: Meilisearch
-
-#### 🤖 AI
-  - XGBoost
-  - PyTorch
-  - YOLOv8
-  - detectron2
 
 #### ⚙️ Web applications
   - Python
