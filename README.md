@@ -32,9 +32,10 @@ I specialize in designing scalable systems, optimizing MLOps pipelines, and ment
   - Global: ChatGPT, Claude
  
 #### 🗂️ Data Engineering & Analytics
-  - Data Storage: PostgreSQL (PostGIS), BigQuery, Redshift, S3, Data Lake
-  - ETL/ELT Pipelines: Apache Airflow, Glue, Cloud Composer
-  - Big Data: Spark, Kafka, Hive, Hadoop, Cassandra
+  - Object Storage: AWS S3, GCS, Vercel Blob, Supabase Storage
+  - Data Base: PostgreSQL (PostGIS), BigQuery, Redshift, Redis, ElasticSearch, Data Lake
+  - ETL/ELT Pipelines: Apache Airflow, Astronomer, AWS Glue, Google Cloud Composer
+  - Big Data: Spark, Kafka, Cassandra
   - Business Intelligence: Tableau, Google Data Studio
 
 #### ⚙️ Web applications & APIs
