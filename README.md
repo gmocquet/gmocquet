@@ -43,8 +43,8 @@ I specialize in designing scalable systems, optimizing MLOps pipelines, and ment
 
 #### 🚀 DevOps & Observability
   - CI/CD: GitHub Actions, CircleCI, ArgoCD
-  - IaC: Terraform, AWS CloudFormation, Google Deployment Manager
-  - Logging & Monitoring: DataDog, Prometheus, Grafana, ELK Stack
+  - IaC: Terraform, AWS CloudFormation, Google Deployment Manager, Ansible
+  - Logging & Monitoring: DataDog, Sentry, Prometheus, Grafana, ELK Stack
   - Load Testing: k6
   - Unit Tests: pytest, Jest
   - SCM: Git, GitLab
