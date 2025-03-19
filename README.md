@@ -18,7 +18,7 @@ I specialize in designing scalable systems, optimizing MLOps pipelines, and ment
 
 #### ☁️ Cloud & Infrastructure
   - Cloud Platforms: AWS, GCP, Paperspace (Acquired by DigitalOcean), Vercel, Supabase
-  - Infrastructure: Kubernetes, Docker, Terraform, ArgoCD, Colima, Nix
+  - Infrastructure: Kubernetes, Docker, ArgoCD, Colima, Nix
   - Serverless: AWS Lambda, GCP Cloud Functions
 
 #### 🤖 AI & Machine Learning
