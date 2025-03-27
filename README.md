@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m G. MOCQUET
 
 🚀 Team Lead — Staff Data Engineer / Staff Fullstack Software Engineer @ Kpler | 💡 Ex-Publicis
+
 🌍 Paris, France | ☁️ Google Cloud Certified Professional Cloud Architect
 
 ### 🛠 About Me
